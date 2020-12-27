@@ -1,0 +1,124 @@
+2020-12-24 12:48:52,528 : INFO : test_01_page_title : *************** TestHomePage *******
+2020-12-24 12:48:52,529 : INFO : test_01_page_title : *************** test_01_page_title *******
+2020-12-24 12:48:52,529 : INFO : test_01_page_title : *************** verifying page title ***********
+2020-12-24 12:48:52,539 : INFO : test_01_page_title : **********title verified successfully ********
+2020-12-24 12:48:52,546 : INFO : test_02_currency : ******** test_02_currency*****
+2020-12-24 12:48:52,546 : INFO : test_02_currency : ******** verifying default currency*****
+2020-12-24 12:48:54,664 : INFO : test_02_currency : ***************verifying default currency successful*******
+2020-12-24 12:50:46,976 : INFO : test_01_page_title : *************** TestHomePage *******
+2020-12-24 12:50:46,977 : INFO : test_01_page_title : *************** test_01_page_title *******
+2020-12-24 12:50:46,977 : INFO : test_01_page_title : *************** verifying page title ***********
+2020-12-24 12:50:46,982 : INFO : test_01_page_title : **********title verified successfully ********
+2020-12-24 12:50:46,989 : INFO : test_02_currency : ******** test_02_currency*****
+2020-12-24 12:50:46,990 : INFO : test_02_currency : ******** verifying default currency*****
+2020-12-24 12:50:49,064 : ERROR : test_02_currency : ***********verifying default currency failed *************
+2020-12-24 12:54:14,077 : INFO : test_01_page_title : *************** TestHomePage *******
+2020-12-24 12:54:14,077 : INFO : test_01_page_title : *************** test_01_page_title *******
+2020-12-24 12:54:14,077 : INFO : test_01_page_title : *************** verifying page title ***********
+2020-12-24 12:54:14,086 : INFO : test_01_page_title : **********title verified successfully ********
+2020-12-24 12:54:14,093 : INFO : test_02_currency : ******** test_02_currency*****
+2020-12-24 12:54:14,093 : INFO : test_02_currency : ******** verifying default currency*****
+2020-12-24 12:54:14,149 : INFO : test_02_currency : ***************verifying default currency successful*******
+2020-12-24 13:00:11,930 : INFO : test_01_page_title : *************** TestHomePage *******
+2020-12-24 13:00:11,930 : INFO : test_01_page_title : *************** test_01_page_title *******
+2020-12-24 13:00:11,930 : INFO : test_01_page_title : *************** verifying page title ***********
+2020-12-24 13:00:11,938 : INFO : test_01_page_title : **********title verified successfully ********
+2020-12-24 13:00:11,945 : INFO : test_02_currency : ******** test_02_currency*****
+2020-12-24 13:00:11,946 : INFO : test_02_currency : ******** verifying default currency*****
+2020-12-24 13:00:11,992 : INFO : test_02_currency : ***************verifying default currency successful*******
+2020-12-24 13:01:01,849 : INFO : test_01_page_title : *************** TestHomePage *******
+2020-12-24 13:01:01,849 : INFO : test_01_page_title : *************** test_01_page_title *******
+2020-12-24 13:01:01,849 : INFO : test_01_page_title : *************** verifying page title ***********
+2020-12-24 13:01:01,856 : INFO : test_01_page_title : **********title verified successfully ********
+2020-12-24 13:01:01,864 : INFO : test_02_currency : ******** test_02_currency*****
+2020-12-24 13:01:01,864 : INFO : test_02_currency : ******** verifying default currency*****
+2020-12-24 13:01:01,914 : INFO : test_02_currency : ***************verifying default currency successful*******
+2020-12-26 16:00:33,275 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:00:44,698 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:00:44,708 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:00:48,288 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:00:48,298 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:00:51,931 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:00:51,943 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:00:59,048 : INFO : test_07_buy_gift_card : False
+2020-12-26 16:06:51,970 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:06:56,494 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:06:56,501 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:06:59,905 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:06:59,919 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:07:02,946 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:07:02,965 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:07:10,538 : INFO : test_07_buy_gift_card : False
+2020-12-26 16:13:27,777 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:13:32,253 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:13:32,264 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:13:35,630 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:13:35,641 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:13:37,874 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:13:37,885 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:13:44,976 : INFO : test_07_buy_gift_card : False
+2020-12-26 16:18:13,146 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:18:18,117 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:18:18,126 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:18:21,081 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:18:21,090 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:18:23,959 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:18:23,968 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:18:31,247 : INFO : test_07_buy_gift_card : False
+2020-12-26 16:19:31,462 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:19:35,383 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:19:35,393 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:19:42,389 : INFO : test_07_buy_gift_card : False
+2020-12-26 16:22:11,576 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:22:14,092 : INFO : test_07_buy_gift_card : True
+2020-12-26 16:22:14,102 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 16:22:21,457 : INFO : test_07_buy_gift_card : False
+2020-12-26 19:49:11,598 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 19:49:14,125 : INFO : test_07_buy_gift_card : True
+2020-12-26 19:49:14,136 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 19:49:22,560 : INFO : test_07_buy_gift_card : False
+2020-12-26 19:52:06,285 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 19:52:08,873 : INFO : test_07_buy_gift_card : True
+2020-12-26 19:52:08,883 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 19:52:16,165 : INFO : test_07_buy_gift_card : False
+2020-12-26 20:11:29,144 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 20:11:31,588 : INFO : test_07_buy_gift_card : True
+2020-12-26 20:11:31,600 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 20:11:38,760 : INFO : test_07_buy_gift_card : False
+2020-12-26 20:15:00,048 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 20:15:02,626 : INFO : test_07_buy_gift_card : True
+2020-12-26 20:15:02,636 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 20:15:09,958 : INFO : test_07_buy_gift_card : False
+2020-12-26 21:10:36,475 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 21:10:38,985 : INFO : test_07_buy_gift_card : True
+2020-12-26 21:10:38,994 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-26 21:10:46,427 : INFO : test_07_buy_gift_card : False
+2020-12-27 00:49:20,883 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-27 00:49:23,171 : INFO : test_07_buy_gift_card : True
+2020-12-27 00:49:23,180 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-27 00:49:30,107 : INFO : test_07_buy_gift_card : False
+2020-12-27 01:14:57,187 : INFO : test_01_laptop : **************** TEST SHOPPING *************
+2020-12-27 01:14:57,187 : INFO : test_01_laptop : **************** test_01_laptop *************
+2020-12-27 01:15:01,796 : INFO : test_01_laptop : *********laptop min qty verified ******** 
+2020-12-27 01:15:01,806 : INFO : test_02_desktop : **************** test_02_desktop *************
+2020-12-27 01:15:08,167 : INFO : test_02_desktop : **************desktop error verified **********
+2020-12-27 01:15:08,176 : INFO : test_03_camera : **************** test_03_camera *************
+2020-12-27 01:15:09,794 : INFO : test_03_camera : ************** out of stock msg verified *****
+2020-12-27 01:15:09,802 : INFO : test_04_jeans : **************** test_04_jeans *************
+2020-12-27 01:15:12,814 : INFO : test_05_digital_download : **************** test_05_digital_download *************
+2020-12-27 01:15:16,068 : INFO : test_06_rent_neckless : **************** test_06_rent_neckless *************
+2020-12-27 01:15:23,607 : INFO : test_06_rent_neckless : ************ verified rental start date should be future **********
+2020-12-27 01:15:23,616 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-27 01:15:25,949 : INFO : test_07_buy_gift_card : ************* verified required info for giftcard *********** 
+2020-12-27 01:15:25,949 : INFO : test_07_buy_gift_card : True
+2020-12-27 01:15:25,960 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-27 01:15:28,608 : INFO : test_07_buy_gift_card : ************* verified required info for giftcard *********** 
+2020-12-27 01:15:28,608 : INFO : test_07_buy_gift_card : True
+2020-12-27 01:15:28,624 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-27 01:15:31,149 : INFO : test_07_buy_gift_card : ************* verified required info for giftcard *********** 
+2020-12-27 01:15:31,149 : INFO : test_07_buy_gift_card : True
+2020-12-27 01:15:31,162 : INFO : test_07_buy_gift_card : ***************test_07_buy_gift_card************
+2020-12-27 01:15:39,190 : INFO : test_07_buy_gift_card : ************* verified required info for giftcard *********** 
+2020-12-27 01:15:39,190 : INFO : test_07_buy_gift_card : False
+2020-12-27 01:15:39,202 : INFO : test_08_shopping_cart : *************** test_08_shopping_cart ************
+2020-12-27 01:15:40,562 : INFO : test_08_shopping_cart : ************** Shopping cart verified ********

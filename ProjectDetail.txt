@@ -1,0 +1,27 @@
+[16/12 14:38] Siva Sayandan
+
+https://frontend.nopcommerce.com/
+
+1. register
+2. login : testcase 1: wrong email & password
+    testcase 2: correct email & wrong password
+    testcase 3: wrong email & correct password
+    testcase 4: correct email & password
+3. from homepage, without logged in, verify page title & default currency
+4. shopping
+    1. click computers - notebook - verify apple macbook minimum order qty 2 & add to cart
+    2. click computers - desktop - verify build your own computer HDD radio buttons & add to cart
+    3. click electronics - camera - verify apple icam & capture out of stock message
+    4. apparel - clothing - add one Levi jeans and check price, add 3 and check the price
+    5. digital download - if you wait - verify price should be more than 0.50 and download sample
+    6. jewelry - elegant rental - dates should be future
+    7. gift card - recipient name & your name must for ordering it
+    8. verify basket & total
+5. shopping card
+    1. verify purchases
+    2. remove one and check total
+    3. verify check T&C before proceed
+    4. login or register or as guest
+    5. should be able to add different shipping address
+    6. payment select money order
+    7. confirm order
